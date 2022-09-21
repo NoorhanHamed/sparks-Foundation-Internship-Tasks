@@ -19,4 +19,4 @@ Exploratory data analysis is done to clarify which States, Regions, Products....
 
 Due to an optimization issue between library Plotly and github, Dashboard of profit and sales of the whole USA is not shown in the Notebook
 
-Dashboard between Profit and each States: 
+
